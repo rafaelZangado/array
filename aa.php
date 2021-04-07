@@ -583,7 +583,7 @@
                     if (($cargasFields['idReferencia'] > 0) && ($cargasFields['tpReferencia'] == 'Vendas')) {      
                         echo "Pedido: ".$cargasFields['idReferencia']." - ";      
                     }      
-                    ?>      
+	   	?>      
             </h1>            
             <?      
                 $produtos = $produtosSeparacao;                  
